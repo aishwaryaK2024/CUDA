@@ -3,8 +3,7 @@
 This repository contains basic CUDA programs implemented to understand 
 GPU parallelism, thread mapping, and memory management.
 
-The goal of this repo is to build a strong foundation in GPU computing 
-before moving to advanced topics like AI/ML acceleration.
+The goal of this repo is to build a strong foundation in GPU computing.
 
 ---
 
